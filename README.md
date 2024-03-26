@@ -1,1 +1,1 @@
-# Text-to-speech-convertor
+# Text-to-speech-converter
